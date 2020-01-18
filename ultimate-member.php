@@ -1,12 +1,8 @@
 <?php
 /*
 Plugin Name: Member
-Plugin URI: 
 Description: The easiest way to create powerful online communities and beautiful user profiles with twodays
 Version: 1.0
-Author: 
-Author URI: 
-Text Domain: 
 */
 
 defined( 'ABSPATH' ) || exit;
